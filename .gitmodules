@@ -1,0 +1,3 @@
+[submodule "movie_data"]
+	path = movie_data
+	url = git@github.com:ashrithr/movie_data_gen.git
